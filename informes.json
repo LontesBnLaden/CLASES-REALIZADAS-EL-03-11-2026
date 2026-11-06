@@ -1,0 +1,15 @@
+[
+  {
+    "expediente": "202600012457",
+    "empresa": "INGENIERIA DE SOFTWARE CON ITELIGENCIA ARTIFICAL",
+    "placa": "BCP372",
+    "supervisor": "LUIS ANGEL URSUA ESPIRITU",
+    "antecedentes": "2.1 Con fecha 03 de noviembre de 2026, se realizo la inspección del software SISFIS\n2.2 Con fecha 03 de noviembre de 2026. se elaboro el presente informe de supervisión",
+    "analisis": "3.1 Durante la visita de fiscalización se verifico que los alumnos están proactivos desarrollando backend y fronted\n3.2 Durante la visita de fiscalización se verifico que hay alumnos que no dominan el backep\n3.3 El instructor desarrollo de manera eficiente la clase modelo",
+    "descargos": "salamaleco",
+    "conclusiones": "4.1 se concluyo el desarrollo de software con prueba",
+    "recomendaciones": "5.1 se recomienda ser mas proactivo",
+    "tieneDescargo": true,
+    "id": "1793747826140"
+  }
+]
